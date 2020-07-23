@@ -16,7 +16,6 @@ class UserRegistration(Resource):
         parser.add_argument('password', type=str, help='This field cannot be blank', required=True)
         parser.add_argument('is_admin', type=bool, required=True)
         data = parser.parse_args()
-        print(data)
         if UserModel.find_by_username(data['username']):
             return {'message': 'User {} already exists'.format(data['username'])}
 
@@ -46,7 +45,6 @@ class UserLogin(Resource):
         parser.add_argument('password', type=str, help='This field cannot be blank', required=True)
         data = parser.parse_args()
         current_user = UserModel.find_by_username(data['username'])
-        print(current_user.is_admin)
         if not current_user:
             return {'message': 'User {} doesn\'t exist'.format(data['username'])}
 

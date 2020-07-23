@@ -71,7 +71,6 @@ def check_if_token_in_blacklist(decrypted_token):
 
 @jwt.user_claims_loader
 def add_claims_to_access_token(user):
-    print(user)
     return {
         'is_admin': user.is_admin
         }
