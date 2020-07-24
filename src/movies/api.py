@@ -28,6 +28,11 @@ class Movie(Resource):
             return {"message": f"Could not find {name}"}
 
         args = parser.parse_args()
+
+        new_movie = MovieModel.find_by_name(args['name'])
+        if new_movie:
+            return {"message": f"Movie {args['name']} already exists"}
+
         movie.name = args['name']
         movie.popularity = args['99popularity']
         movie.director = args['director']
