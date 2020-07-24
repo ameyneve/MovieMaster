@@ -12,6 +12,7 @@ flask-jwt-extended = "*"
 werkzeug = "==0.16.1"
 "psycopg2" = "*"
 gunicorn = "*"
+python-dotenv = "*"
 
 [dev-packages]
 

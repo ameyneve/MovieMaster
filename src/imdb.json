@@ -1,0 +1,2708 @@
+[
+	{
+		"99popularity": 83,
+		"director": "VictorFleming",
+		"genre": [
+			"Adventure",
+			"Family",
+			"Fantasy",
+			"Musical"
+		],
+		"imdb_score": 8.3,
+		"name": "TheWizardofOz"
+	},
+	{
+		"99popularity": 88,
+		"director": "GeorgeLucas",
+		"genre": [
+			"Action",
+			"Adventure",
+			"Fantasy",
+			"Sci-Fi"
+		],
+		"imdb_score": 8.8,
+		"name": "StarWars"
+	},
+	{
+		"99popularity": 66,
+		"director": "GiovanniPastrone",
+		"genre": [
+			"Adventure",
+			"Drama",
+			"War"
+		],
+		"imdb_score": 6.6,
+		"name": "Cabiria"
+	},
+	{
+		"99popularity": 87,
+		"director": "AlfredHitchcock",
+		"genre": [
+			"Horror",
+			"Mystery",
+			"Thriller"
+		],
+		"imdb_score": 8.7,
+		"name": "Psycho"
+	},
+	{
+		"99popularity": 80,
+		"director": "MerianC.Cooper",
+		"genre": [
+			"Adventure",
+			"Fantasy",
+			"Horror"
+		],
+		"imdb_score": 8,
+		"name": "KingKong"
+	},
+	{
+		"99popularity": 84,
+		"director": "FritzLang",
+		"genre": [
+			"Adventure",
+			"Drama",
+			"Sci-Fi"
+		],
+		"imdb_score": 8.4,
+		"name": "Metropolis"
+	},
+	{
+		"99popularity": 86,
+		"director": "MarcDaniels",
+		"genre": [
+			"Adventure",
+			"Sci-Fi"
+		],
+		"imdb_score": 8.6,
+		"name": "StarTrek"
+	},
+	{
+		"99popularity": 88,
+		"director": "MichaelCurtiz",
+		"genre": [
+			"Drama",
+			"Romance",
+			"War"
+		],
+		"imdb_score": 8.8,
+		"name": "Casablanca"
+	},
+	{
+		"99popularity": 79,
+		"director": "WilliamCottrell",
+		"genre": [
+			"Animation",
+			"Family",
+			"Fantasy",
+			"Musical",
+			"Romance"
+		],
+		"imdb_score": 7.9,
+		"name": "SnowWhiteandtheSevenDwarfs"
+	},
+	{
+		"99popularity": 84,
+		"director": "StanleyKubrick",
+		"genre": [
+			"Adventure",
+			"Mystery",
+			"Sci-Fi"
+		],
+		"imdb_score": 8.4,
+		"name": "2001:ASpaceOdyssey"
+	},
+	{
+		"99popularity": 92,
+		"director": "FrancisFordCoppola",
+		"genre": [
+			"Crime",
+			"Drama"
+		],
+		"imdb_score": 9.2,
+		"name": "TheGodfather"
+	},
+	{
+		"99popularity": 71,
+		"director": "D.W.Griffith",
+		"genre": [
+			"Drama",
+			"History",
+			"Romance",
+			"War",
+			"Western"
+		],
+		"imdb_score": 7.1,
+		"name": "TheBirthofaNation"
+	},
+	{
+		"99popularity": 81,
+		"director": "AlfredHitchcock",
+		"genre": [
+			"Crime",
+			"Film-Noir",
+			"Mystery",
+			"Thriller"
+		],
+		"imdb_score": 8.1,
+		"name": "ShadowofaDoubt"
+	},
+	{
+		"99popularity": 83,
+		"director": "StevenSpielberg",
+		"genre": [
+			"Thriller"
+		],
+		"imdb_score": 8.3,
+		"name": "Jaws"
+	},
+	{
+		"99popularity": 64,
+		"director": "J.SearleDawley",
+		"genre": [
+			"Fantasy",
+			"Romance"
+		],
+		"imdb_score": 6.4,
+		"name": "SnowWhite"
+	},
+	{
+		"99popularity": 86,
+		"director": "FrancisFordCoppola",
+		"genre": [
+			"Drama",
+			"War"
+		],
+		"imdb_score": 8.6,
+		"name": "ApocalypseNow"
+	},
+	{
+		"99popularity": 82,
+		"director": "VictorFleming",
+		"genre": [
+			"Drama",
+			"Romance",
+			"War"
+		],
+		"imdb_score": 8.2,
+		"name": "GonewiththeWind"
+	},
+	{
+		"99popularity": 76,
+		"director": "ErnstLubitsch",
+		"genre": [
+			"Musical",
+			"Comedy",
+			"Romance"
+		],
+		"imdb_score": 7.6,
+		"name": "TheMerryWidow"
+	},
+	{
+		"99popularity": 81,
+		"director": "JohnFord",
+		"genre": [
+			"Adventure",
+			"Drama",
+			"Western"
+		],
+		"imdb_score": 8.1,
+		"name": "TheSearchers"
+	},
+	{
+		"99popularity": 86,
+		"director": "AlfredHitchcock",
+		"genre": [
+			"Crime",
+			"Mystery",
+			"Romance",
+			"Thriller"
+		],
+		"imdb_score": 8.6,
+		"name": "Vertigo"
+	},
+	{
+		"99popularity": 73,
+		"director": "TerenceYoung",
+		"genre": [
+			"Action",
+			"Adventure",
+			"Thriller"
+		],
+		"imdb_score": 7.3,
+		"name": "Dr.No"
+	},
+	{
+		"99popularity": 83,
+		"director": "OrsonWelles",
+		"genre": [
+			"Crime",
+			"Film-Noir",
+			"Thriller"
+		],
+		"imdb_score": 8.3,
+		"name": "TouchofEvil"
+	},
+	{
+		"99popularity": 74,
+		"director": "MerianC.Cooper",
+		"genre": [
+			"Adventure",
+			"Documentary"
+		],
+		"imdb_score": 7.4,
+		"name": "Chang:ADramaoftheWilderness"
+	},
+	{
+		"99popularity": 81,
+		"director": "WilliamFriedkin",
+		"genre": [
+			"Horror"
+		],
+		"imdb_score": 8.1,
+		"name": "TheExorcist"
+	},
+	{
+		"99popularity": 86,
+		"director": "OrsonWelles",
+		"genre": [
+			"Drama",
+			"Mystery"
+		],
+		"imdb_score": 8.6,
+		"name": "CitizenKane"
+	},
+	{
+		"99popularity": 81,
+		"director": "JamesCameron",
+		"genre": [
+			"Action",
+			"Sci-Fi",
+			"Thriller"
+		],
+		"imdb_score": 8.1,
+		"name": "TheTerminator"
+	},
+	{
+		"99popularity": 81,
+		"director": "RomanPolanski",
+		"genre": [
+			"Drama",
+			"Horror",
+			"Mystery"
+		],
+		"imdb_score": 8.1,
+		"name": "RosemarysBaby"
+	},
+	{
+		"99popularity": 81,
+		"director": "SergeiM.Eisenstein",
+		"genre": [
+			"Drama",
+			"History",
+			"War"
+		],
+		"imdb_score": 8.1,
+		"name": "BronenosetsPotyomkin"
+	},
+	{
+		"99popularity": 88,
+		"director": "IrvinKershner",
+		"genre": [
+			"Action",
+			"Adventure",
+			"Sci-Fi"
+		],
+		"imdb_score": 8.8,
+		"name": "StarWars:EpisodeV-TheEmpireStrikesBack"
+	},
+	{
+		"99popularity": 71,
+		"director": "HarryO.Hoyt",
+		"genre": [
+			"Adventure",
+			"Fantasy",
+			"Horror",
+			"Sci-Fi",
+			"Thriller"
+		],
+		"imdb_score": 7.1,
+		"name": "TheLostWorld"
+	},
+	{
+		"99popularity": 85,
+		"director": "StanleyKubrick",
+		"genre": [
+			"Crime",
+			"Drama",
+			"Sci-Fi"
+		],
+		"imdb_score": 8.5,
+		"name": "AClockworkOrange"
+	},
+	{
+		"99popularity": 80,
+		"director": "JamesWhale",
+		"genre": [
+			"Drama",
+			"Horror",
+			"Sci-Fi"
+		],
+		"imdb_score": 8,
+		"name": "Frankenstein"
+	},
+	{
+		"99popularity": 85,
+		"director": "LisaSimon",
+		"genre": [
+			"Animation",
+			"Comedy",
+			"Family",
+			"Fantasy",
+			"Music"
+		],
+		"imdb_score": 8.5,
+		"name": "SesameStreet"
+	},
+	{
+		"99popularity": 82,
+		"director": "JeanRenoir",
+		"genre": [
+			"Drama",
+			"War"
+		],
+		"imdb_score": 8.2,
+		"name": "Lagrandeillusion"
+	},
+	{
+		"99popularity": 87,
+		"director": "StevenSpielberg",
+		"genre": [
+			"Action",
+			"Adventure"
+		],
+		"imdb_score": 8.7,
+		"name": "RaidersoftheLostArk"
+	},
+	{
+		"99popularity": 80,
+		"director": "GeorgeA.Romero",
+		"genre": [
+			"Horror",
+			"Mystery"
+		],
+		"imdb_score": 8,
+		"name": "NightoftheLivingDead"
+	},
+	{
+		"99popularity": 53,
+		"director": "LarrySemon",
+		"genre": [
+			"Comedy",
+			"Family",
+			"Fantasy",
+			"Adventure"
+		],
+		"imdb_score": 5.3,
+		"name": "TheWizardofOz"
+	},
+	{
+		"99popularity": 68,
+		"director": "GeorgeLucas",
+		"genre": [
+			"Drama",
+			"Mystery",
+			"Sci-Fi",
+			"Thriller"
+		],
+		"imdb_score": 6.8,
+		"name": "THX1138"
+	},
+	{
+		"99popularity": 79,
+		"director": "StevenSpielberg",
+		"genre": [
+			"Adventure",
+			"Drama",
+			"Family",
+			"Fantasy",
+			"Sci-Fi"
+		],
+		"imdb_score": 7.9,
+		"name": "E.T.:TheExtra-Terrestrial"
+	},
+	{
+		"99popularity": 69,
+		"director": "MauriceTourneur",
+		"genre": [
+			"Comedy",
+			"Drama"
+		],
+		"imdb_score": 6.9,
+		"name": "ThePoorLittleRichGirl"
+	},
+	{
+		"99popularity": 46,
+		"director": "JamesParrott",
+		"genre": [
+			"Short",
+			"Adventure",
+			"Comedy"
+		],
+		"imdb_score": 4.6,
+		"name": "TheTinMan"
+	},
+	{
+		"99popularity": 86,
+		"director": "MartinScorsese",
+		"genre": [
+			"Drama",
+			"Thriller"
+		],
+		"imdb_score": 8.6,
+		"name": "TaxiDriver"
+	},
+	{
+		"99popularity": 90,
+		"director": "SergioLeone",
+		"genre": [
+			"Adventure",
+			"Western"
+		],
+		"imdb_score": 9,
+		"name": "Ilbuono,ilbrutto,ilcattivo."
+	},
+	{
+		"99popularity": 66,
+		"director": "D.W.Griffith",
+		"genre": [
+			"Short",
+			"Action",
+			"Western"
+		],
+		"imdb_score": 6.6,
+		"name": "TheBattleatElderbushGulch"
+	},
+	{
+		"99popularity": 84,
+		"director": "StanleyDonen",
+		"genre": [
+			"Comedy",
+			"Musical",
+			"Romance"
+		],
+		"imdb_score": 8.4,
+		"name": "SinginintheRain"
+	},
+	{
+		"99popularity": 84,
+		"director": "EliaKazan",
+		"genre": [
+			"Crime",
+			"Drama",
+			"Romance"
+		],
+		"imdb_score": 8.4,
+		"name": "OntheWaterfront"
+	},
+	{
+		"99popularity": 84,
+		"director": "ClydeBruckman",
+		"genre": [
+			"Comedy",
+			"Romance",
+			"War",
+			"Action"
+		],
+		"imdb_score": 8.4,
+		"name": "TheGeneral"
+	},
+	{
+		"99popularity": 78,
+		"director": "IvanReitman",
+		"genre": [
+			"Adventure",
+			"Fantasy",
+			"Mystery"
+		],
+		"imdb_score": 7.8,
+		"name": "GhostBusters"
+	},
+	{
+		"99popularity": 71,
+		"director": "W.S.VanDyke",
+		"genre": [
+			"Action",
+			"Adventure",
+			"Romance"
+		],
+		"imdb_score": 7.1,
+		"name": "TarzantheApeMan"
+	},
+	{
+		"99popularity": 60,
+		"director": "L.FrankBaum",
+		"genre": [
+			"Family",
+			"Fantasy",
+			"Adventure",
+			"Comedy"
+		],
+		"imdb_score": 6,
+		"name": "HisMajesty,theScarecrowofOz"
+	},
+	{
+		"99popularity": 95,
+		"director": "JohnBrahm",
+		"genre": [
+			"Drama",
+			"Fantasy",
+			"Mystery",
+			"Sci-Fi",
+			"Thriller"
+		],
+		"imdb_score": 9.5,
+		"name": "TheTwilightZone"
+	},
+	{
+		"99popularity": 75,
+		"director": "EdwinS.Porter",
+		"genre": [
+			"Short",
+			"Western"
+		],
+		"imdb_score": 7.5,
+		"name": "TheGreatTrainRobbery"
+	},
+	{
+		"99popularity": 79,
+		"director": "GuyHamilton",
+		"genre": [
+			"Action",
+			"Adventure",
+			"Thriller"
+		],
+		"imdb_score": 7.9,
+		"name": "Goldfinger"
+	},
+	{
+		"99popularity": 81,
+		"director": "FedericoFellini",
+		"genre": [
+			"Comedy",
+			"Drama"
+		],
+		"imdb_score": 8.1,
+		"name": "Ladolcevita"
+	},
+	{
+		"99popularity": 85,
+		"director": "RidleyScott",
+		"genre": [
+			"Adventure",
+			"Horror",
+			"Sci-Fi",
+			"Thriller"
+		],
+		"imdb_score": 8.5,
+		"name": "Alien"
+	},
+	{
+		"99popularity": 81,
+		"director": "F.W.Murnau",
+		"genre": [
+			"Fantasy",
+			"Horror"
+		],
+		"imdb_score": 8.1,
+		"name": "Nosferatu,eineSymphoniedesGrauens"
+	},
+	{
+		"99popularity": 85,
+		"director": "StanleyKubrick",
+		"genre": [
+			"Horror",
+			"Mystery"
+		],
+		"imdb_score": 8.5,
+		"name": "TheShining"
+	},
+	{
+		"99popularity": 86,
+		"director": "StanleyKubrick",
+		"genre": [
+			"Comedy",
+			"Drama"
+		],
+		"imdb_score": 8.6,
+		"name": "Dr.Strangeloveor:HowILearnedtoStopWorryingandLovetheBomb"
+	},
+	{
+		"99popularity": 82,
+		"director": "BrianDePalma",
+		"genre": [
+			"Crime",
+			"Drama",
+			"Thriller"
+		],
+		"imdb_score": 8.2,
+		"name": "Scarface"
+	},
+	{
+		"99popularity": 81,
+		"director": "JohnG.Avildsen",
+		"genre": [
+			"Drama",
+			"Romance",
+			"Sport"
+		],
+		"imdb_score": 8.1,
+		"name": "Rocky"
+	},
+	{
+		"99popularity": 90,
+		"director": "MarkKirkland",
+		"genre": [
+			"Animation",
+			"Comedy"
+		],
+		"imdb_score": 9,
+		"name": "TheSimpsons"
+	},
+	{
+		"99popularity": 80,
+		"director": "LuisBu1uel",
+		"genre": [
+			"Short",
+			"Fantasy"
+		],
+		"imdb_score": 8,
+		"name": "Unchienandalou"
+	},
+	{
+		"99popularity": 77,
+		"director": "TodBrowning",
+		"genre": [
+			"Fantasy",
+			"Horror"
+		],
+		"imdb_score": 7.7,
+		"name": "Dracula"
+	},
+	{
+		"99popularity": 75,
+		"director": "TedKotcheff",
+		"genre": [
+			"Action",
+			"Adventure",
+			"Drama",
+			"Thriller"
+		],
+		"imdb_score": 7.5,
+		"name": "FirstBlood"
+	},
+	{
+		"99popularity": 80,
+		"director": "JosephBarbera",
+		"genre": [
+			"Animation",
+			"Family",
+			"Comedy"
+		],
+		"imdb_score": 8,
+		"name": "TheFlintstones"
+	},
+	{
+		"99popularity": 77,
+		"director": "OscarRudolph",
+		"genre": [
+			"Action",
+			"Adventure",
+			"Comedy",
+			"Crime",
+			"Family",
+			"Fantasy",
+			"Mystery",
+			"Sci-Fi"
+		],
+		"imdb_score": 7.7,
+		"name": "Batman"
+	},
+	{
+		"99popularity": 70,
+		"director": "JohnFord",
+		"genre": [
+			"Adventure",
+			"War"
+		],
+		"imdb_score": 7,
+		"name": "TheLostPatrol"
+	},
+	{
+		"99popularity": 81,
+		"director": "MervynLeRoy",
+		"genre": [
+			"Crime",
+			"Drama",
+			"Film-Noir"
+		],
+		"imdb_score": 8.1,
+		"name": "IAmaFugitivefromaChainGang"
+	},
+	{
+		"99popularity": 84,
+		"director": "RobertZemeckis",
+		"genre": [
+			"Adventure",
+			"Family",
+			"Sci-Fi"
+		],
+		"imdb_score": 8.4,
+		"name": "BacktotheFuture"
+	},
+	{
+		"99popularity": 79,
+		"director": "JohnBoorman",
+		"genre": [
+			"Adventure",
+			"Drama",
+			"Thriller"
+		],
+		"imdb_score": 7.9,
+		"name": "Deliverance"
+	},
+	{
+		"99popularity": 84,
+		"director": "AlfredHitchcock",
+		"genre": [
+			"Mystery",
+			"Romance",
+			"Thriller"
+		],
+		"imdb_score": 8.4,
+		"name": "Rebecca"
+	},
+	{
+		"99popularity": 80,
+		"director": "EdwardF.Cline",
+		"genre": [
+			"Comedy",
+			"Short",
+			"Family"
+		],
+		"imdb_score": 8,
+		"name": "TheScarecrow"
+	},
+	{
+		"99popularity": 75,
+		"director": "TobeHooper",
+		"genre": [
+			"Horror",
+			"Mystery",
+			"Thriller"
+		],
+		"imdb_score": 7.5,
+		"name": "TheTexasChainSawMassacre"
+	},
+	{
+		"99popularity": 84,
+		"director": "DavidLean",
+		"genre": [
+			"Adventure",
+			"Drama",
+			"War"
+		],
+		"imdb_score": 8.4,
+		"name": "TheBridgeontheRiverKwai"
+	},
+	{
+		"99popularity": 87,
+		"director": "FrankCapra",
+		"genre": [
+			"Drama",
+			"Fantasy",
+			"Romance"
+		],
+		"imdb_score": 8.7,
+		"name": "ItsaWonderfulLife"
+	},
+	{
+		"99popularity": 71,
+		"director": "StevenSoderbergh",
+		"genre": [
+			"Drama"
+		],
+		"imdb_score": 7.1,
+		"name": "Sex,Lies,andVideotape"
+	},
+	{
+		"99popularity": 79,
+		"director": "DonSiegel",
+		"genre": [
+			"Action",
+			"Crime",
+			"Thriller"
+		],
+		"imdb_score": 7.9,
+		"name": "DirtyHarry"
+	},
+	{
+		"99popularity": 79,
+		"director": "GeorgeCukor",
+		"genre": [
+			"Drama",
+			"Family",
+			"Musical",
+			"Romance"
+		],
+		"imdb_score": 7.9,
+		"name": "MyFairLady"
+	},
+	{
+		"99popularity": 75,
+		"director": "SamuelArmstrong",
+		"genre": [
+			"Animation",
+			"Family",
+			"Musical"
+		],
+		"imdb_score": 7.5,
+		"name": "Dumbo"
+	},
+	{
+		"99popularity": 79,
+		"director": "AlfredHitchcock",
+		"genre": [
+			"Horror",
+			"Romance",
+			"Thriller"
+		],
+		"imdb_score": 7.9,
+		"name": "TheBirds"
+	},
+	{
+		"99popularity": 72,
+		"director": "JamesW.Horne",
+		"genre": [
+			"Comedy",
+			"Drama",
+			"Sport"
+		],
+		"imdb_score": 7.2,
+		"name": "College"
+	},
+	{
+		"99popularity": 74,
+		"director": "JamesCameron",
+		"genre": [
+			"Drama",
+			"History",
+			"Romance"
+		],
+		"imdb_score": 7.4,
+		"name": "Titanic"
+	},
+	{
+		"99popularity": 82,
+		"director": "WilliamWyler",
+		"genre": [
+			"Action",
+			"Adventure",
+			"Drama",
+			"History",
+			"Romance"
+		],
+		"imdb_score": 8.2,
+		"name": "Ben-Hur"
+	},
+	{
+		"99popularity": 90,
+		"director": "QuentinTarantino",
+		"genre": [
+			"Crime",
+			"Drama"
+		],
+		"imdb_score": 9,
+		"name": "PulpFiction"
+	},
+	{
+		"99popularity": 87,
+		"director": "AlfredHitchcock",
+		"genre": [
+			"Crime",
+			"Mystery",
+			"Romance",
+			"Thriller"
+		],
+		"imdb_score": 8.7,
+		"name": "RearWindow"
+	},
+	{
+		"99popularity": 85,
+		"director": "JamesCameron",
+		"genre": [
+			"Action",
+			"Sci-Fi",
+			"Thriller"
+		],
+		"imdb_score": 8.5,
+		"name": "Aliens"
+	},
+	{
+		"99popularity": 70,
+		"director": "JohnCromwell",
+		"genre": [
+			"Drama",
+			"Mystery",
+			"Romance"
+		],
+		"imdb_score": 7,
+		"name": "Algiers"
+	},
+	{
+		"99popularity": 81,
+		"director": "ErichvonStroheim",
+		"genre": [
+			"Drama"
+		],
+		"imdb_score": 8.1,
+		"name": "Greed"
+	},
+	{
+		"99popularity": 87,
+		"director": "JonathanDemme",
+		"genre": [
+			"Crime",
+			"Thriller"
+		],
+		"imdb_score": 8.7,
+		"name": "TheSilenceoftheLambs"
+	},
+	{
+		"99popularity": 79,
+		"director": "CharlesChaplin",
+		"genre": [
+			"Comedy",
+			"Family",
+			"Drama",
+			"Romance"
+		],
+		"imdb_score": 7.9,
+		"name": "TheCircus"
+	},
+	{
+		"99popularity": 90,
+		"director": "KimManners",
+		"genre": [
+			"Drama",
+			"Mystery",
+			"Sci-Fi",
+			"Thriller"
+		],
+		"imdb_score": 9,
+		"name": "TheXFiles"
+	},
+	{
+		"99popularity": 85,
+		"director": "JamesCameron",
+		"genre": [
+			"Action",
+			"Sci-Fi",
+			"Thriller"
+		],
+		"imdb_score": 8.5,
+		"name": "Terminator2:JudgmentDay"
+	},
+	{
+		"99popularity": 60,
+		"director": "JosephC.Terry",
+		"genre": [
+			"Talk-Show"
+		],
+		"imdb_score": 6,
+		"name": "TheOprahWinfreyShow"
+	},
+	{
+		"99popularity": 82,
+		"director": "MikeNichols",
+		"genre": [
+			"Comedy",
+			"Drama",
+			"Romance"
+		],
+		"imdb_score": 8.2,
+		"name": "TheGraduate"
+	},
+	{
+		"99popularity": 55,
+		"director": "HenryLehrman",
+		"genre": [
+			"Comedy",
+			"Short"
+		],
+		"imdb_score": 5.5,
+		"name": "TheBangvillePolice"
+	},
+	{
+		"99popularity": 87,
+		"director": "AndyWachowski",
+		"genre": [
+			"Action",
+			"Adventure",
+			"Sci-Fi"
+		],
+		"imdb_score": 8.7,
+		"name": "TheMatrix"
+	},
+	{
+		"99popularity": 70,
+		"director": "OscarRudolph",
+		"genre": [
+			"Comedy",
+			"Family"
+		],
+		"imdb_score": 7,
+		"name": "TheBradyBunch"
+	},
+	{
+		"99popularity": 85,
+		"director": "DavidLean",
+		"genre": [
+			"Adventure",
+			"Biography",
+			"Drama",
+			"History",
+			"War"
+		],
+		"imdb_score": 8.5,
+		"name": "LawrenceofArabia"
+	},
+	{
+		"99popularity": 74,
+		"director": "WesCraven",
+		"genre": [
+			"Horror",
+			"Mystery"
+		],
+		"imdb_score": 7.4,
+		"name": "ANightmareonElmStreet"
+	},
+	{
+		"99popularity": 78,
+		"director": "GeorgeSchaefer",
+		"genre": [
+			"Comedy",
+			"Drama"
+		],
+		"imdb_score": 7.8,
+		"name": "Pygmalion"
+	},
+	{
+		"99popularity": 86,
+		"director": "AlfredHitchcock",
+		"genre": [
+			"Adventure",
+			"Drama",
+			"Mystery",
+			"Romance",
+			"Thriller"
+		],
+		"imdb_score": 8.6,
+		"name": "NorthbyNorthwest"
+	},
+	{
+		"99popularity": 79,
+		"director": "RobertWise",
+		"genre": [
+			"Biography",
+			"Drama",
+			"Family",
+			"Musical"
+		],
+		"imdb_score": 7.9,
+		"name": "TheSoundofMusic"
+	},
+	{
+		"99popularity": 78,
+		"director": "JackArnold",
+		"genre": [
+			"Comedy",
+			"Family"
+		],
+		"imdb_score": 7.8,
+		"name": "GilligansIsland"
+	},
+	{
+		"99popularity": 76,
+		"director": "JamesAlgar",
+		"genre": [
+			"Animation",
+			"Drama",
+			"Family"
+		],
+		"imdb_score": 7.6,
+		"name": "Bambi"
+	},
+	{
+		"99popularity": 78,
+		"director": "JeromeRobbins",
+		"genre": [
+			"Crime",
+			"Drama",
+			"Musical",
+			"Romance"
+		],
+		"imdb_score": 7.8,
+		"name": "WestSideStory"
+	},
+	{
+		"99popularity": 79,
+		"director": "FredZinnemann",
+		"genre": [
+			"Drama",
+			"Romance",
+			"War"
+		],
+		"imdb_score": 7.9,
+		"name": "FromHeretoEternity"
+	},
+	{
+		"99popularity": 79,
+		"director": "JohnCarpenter",
+		"genre": [
+			"Horror",
+			"Thriller"
+		],
+		"imdb_score": 7.9,
+		"name": "Halloween"
+	},
+	{
+		"99popularity": 90,
+		"director": "WilliamAsher",
+		"genre": [
+			"Comedy",
+			"Family"
+		],
+		"imdb_score": 9,
+		"name": "ILoveLucy"
+	},
+	{
+		"99popularity": 74,
+		"director": "KarlFreund",
+		"genre": [
+			"Romance",
+			"Horror"
+		],
+		"imdb_score": 7.4,
+		"name": "MadLove"
+	},
+	{
+		"99popularity": 83,
+		"director": "RidleyScott",
+		"genre": [
+			"Drama",
+			"Sci-Fi",
+			"Thriller"
+		],
+		"imdb_score": 8.3,
+		"name": "BladeRunner"
+	},
+	{
+		"99popularity": 77,
+		"director": "RobertStevenson",
+		"genre": [
+			"Comedy",
+			"Family",
+			"Fantasy",
+			"Musical"
+		],
+		"imdb_score": 7.7,
+		"name": "MaryPoppins"
+	},
+	{
+		"99popularity": 83,
+		"director": "RichardMarquand",
+		"genre": [
+			"Action",
+			"Adventure",
+			"Fantasy",
+			"Sci-Fi"
+		],
+		"imdb_score": 8.3,
+		"name": "StarWars:EpisodeVI-ReturnoftheJedi"
+	},
+	{
+		"99popularity": 78,
+		"director": "StevenSpielberg",
+		"genre": [
+			"Drama",
+			"Sci-Fi"
+		],
+		"imdb_score": 7.8,
+		"name": "CloseEncountersoftheThirdKind"
+	},
+	{
+		"99popularity": 88,
+		"director": "AkiraKurosawa",
+		"genre": [
+			"Adventure",
+			"Drama"
+		],
+		"imdb_score": 8.8,
+		"name": "Shichininnosamurai"
+	},
+	{
+		"99popularity": 80,
+		"director": "JamesWhale",
+		"genre": [
+			"Horror",
+			"Sci-Fi"
+		],
+		"imdb_score": 8,
+		"name": "BrideofFrankenstein"
+	},
+	{
+		"99popularity": 85,
+		"director": "JohnHuston",
+		"genre": [
+			"Adventure",
+			"Drama",
+			"Western",
+			"Action"
+		],
+		"imdb_score": 8.5,
+		"name": "TheTreasureoftheSierraMadre"
+	},
+	{
+		"99popularity": 60,
+		"director": "PhilKarlson",
+		"genre": [
+			"Drama",
+			"Crime",
+			"Film-Noir"
+		],
+		"imdb_score": 6,
+		"name": "5AgainsttheHouse"
+	},
+	{
+		"99popularity": 79,
+		"director": "AkiraKurosawa",
+		"genre": [
+			"Drama",
+			"History",
+			"War"
+		],
+		"imdb_score": 7.9,
+		"name": "Kagemusha"
+	},
+	{
+		"99popularity": 47,
+		"director": "D.W.Griffith",
+		"genre": [
+			"Short",
+			"Drama"
+		],
+		"imdb_score": 4.7,
+		"name": "HisTrustFulfilled"
+	},
+	{
+		"99popularity": 53,
+		"director": "D.W.Griffith",
+		"genre": [
+			"Short",
+			"Drama",
+			"War"
+		],
+		"imdb_score": 5.3,
+		"name": "HisTrust"
+	},
+	{
+		"99popularity": 73,
+		"director": "IshirccabHonda",
+		"genre": [
+			"Drama",
+			"Horror",
+			"Sci-Fi",
+			"Thriller"
+		],
+		"imdb_score": 7.3,
+		"name": "Gojira"
+	},
+	{
+		"99popularity": 80,
+		"director": "StanleyKubrick",
+		"genre": [
+			"Action",
+			"Adventure",
+			"Biography",
+			"Drama",
+			"History"
+		],
+		"imdb_score": 8,
+		"name": "Spartacus"
+	},
+	{
+		"99popularity": 71,
+		"director": "WinsorMcCay",
+		"genre": [
+			"Animation",
+			"Short"
+		],
+		"imdb_score": 7.1,
+		"name": "DreamsoftheRarebitFiend:ThePet"
+	},
+	{
+		"99popularity": 84,
+		"director": "JohnHuston",
+		"genre": [
+			"Crime",
+			"Film-Noir",
+			"Mystery"
+		],
+		"imdb_score": 8.4,
+		"name": "TheMalteseFalcon"
+	},
+	{
+		"99popularity": 80,
+		"director": "FranklinJ.Schaffner",
+		"genre": [
+			"Adventure",
+			"Mystery",
+			"Sci-Fi"
+		],
+		"imdb_score": 8,
+		"name": "PlanetoftheApes"
+	},
+	{
+		"99popularity": 72,
+		"director": "FrankLloyd",
+		"genre": [
+			"Adventure",
+			"Drama",
+			"Romance"
+		],
+		"imdb_score": 7.2,
+		"name": "TheSeaHawk"
+	},
+	{
+		"99popularity": 82,
+		"director": "LewisMilestone",
+		"genre": [
+			"Action",
+			"Drama",
+			"History",
+			"War"
+		],
+		"imdb_score": 8.2,
+		"name": "AllQuietontheWesternFront"
+	},
+	{
+		"99popularity": 74,
+		"director": "CarlBoese",
+		"genre": [
+			"Fantasy",
+			"Horror"
+		],
+		"imdb_score": 7.4,
+		"name": "DerGolem,wieerindieWeltkam"
+	},
+	{
+		"99popularity": 59,
+		"director": "GordonDouglas",
+		"genre": [
+			"Action",
+			"Adventure",
+			"Comedy",
+			"Sci-Fi"
+		],
+		"imdb_score": 5.9,
+		"name": "InLikeFlint"
+	},
+	{
+		"99popularity": 74,
+		"director": "LeoMcCarey",
+		"genre": [
+			"Drama",
+			"Family"
+		],
+		"imdb_score": 7.4,
+		"name": "TheBellsofSt.Marys"
+	},
+	{
+		"99popularity": 77,
+		"director": "StevenSpielberg",
+		"genre": [
+			"Mystery",
+			"Thriller"
+		],
+		"imdb_score": 7.7,
+		"name": "Duel"
+	},
+	{
+		"99popularity": 78,
+		"director": "SergeiM.Eisenstein",
+		"genre": [
+			"Drama"
+		],
+		"imdb_score": 7.8,
+		"name": "Stachka"
+	},
+	{
+		"99popularity": 71,
+		"director": "FredZinnemann",
+		"genre": [
+			"Musical",
+			"Romance",
+			"Western"
+		],
+		"imdb_score": 7.1,
+		"name": "Oklahoma!"
+	},
+	{
+		"99popularity": 74,
+		"director": "MayaDeren",
+		"genre": [
+			"Short"
+		],
+		"imdb_score": 7.4,
+		"name": "AtLand"
+	},
+	{
+		"99popularity": 79,
+		"director": "StevenSpielberg",
+		"genre": [
+			"Action",
+			"Adventure",
+			"Family",
+			"Sci-Fi"
+		],
+		"imdb_score": 7.9,
+		"name": "JurassicPark"
+	},
+	{
+		"99popularity": 79,
+		"director": "JohnFord",
+		"genre": [
+			"Action",
+			"Drama",
+			"Romance",
+			"Western"
+		],
+		"imdb_score": 7.9,
+		"name": "Stagecoach"
+	},
+	{
+		"99popularity": 86,
+		"director": "StanleyKubrick",
+		"genre": [
+			"Crime",
+			"Drama",
+			"War"
+		],
+		"imdb_score": 8.6,
+		"name": "PathsofGlory"
+	},
+	{
+		"99popularity": 77,
+		"director": "JerryParis",
+		"genre": [
+			"Comedy",
+			"Family",
+			"Music"
+		],
+		"imdb_score": 7.7,
+		"name": "HappyDays"
+	},
+	{
+		"99popularity": 68,
+		"director": "JohnBadham",
+		"genre": [
+			"Drama",
+			"Music",
+			"Romance"
+		],
+		"imdb_score": 6.8,
+		"name": "SaturdayNightFever"
+	},
+	{
+		"99popularity": 81,
+		"director": "GeorgeCukor",
+		"genre": [
+			"Comedy",
+			"Romance"
+		],
+		"imdb_score": 8.1,
+		"name": "ThePhiladelphiaStory"
+	},
+	{
+		"99popularity": 82,
+		"director": "FedericoFellini",
+		"genre": [
+			"Drama",
+			"Fantasy"
+		],
+		"imdb_score": 8.2,
+		"name": "8xe5"
+	},
+	{
+		"99popularity": 86,
+		"director": "DouglasCamfield",
+		"genre": [
+			"Adventure",
+			"Drama",
+			"Sci-Fi"
+		],
+		"imdb_score": 8.6,
+		"name": "DoctorWho"
+	},
+	{
+		"99popularity": 86,
+		"director": "FritzLang",
+		"genre": [
+			"Crime",
+			"Thriller"
+		],
+		"imdb_score": 8.6,
+		"name": "M"
+	},
+	{
+		"99popularity": 74,
+		"director": "JohnHuston",
+		"genre": [
+			"Adventure",
+			"Drama"
+		],
+		"imdb_score": 7.4,
+		"name": "MobyDick"
+	},
+	{
+		"99popularity": 74,
+		"director": "BrianDePalma",
+		"genre": [
+			"Horror",
+			"Thriller"
+		],
+		"imdb_score": 7.4,
+		"name": "Carrie"
+	},
+	{
+		"99popularity": 79,
+		"director": "NicholasRay",
+		"genre": [
+			"Drama",
+			"Romance"
+		],
+		"imdb_score": 7.9,
+		"name": "RebelWithoutaCause"
+	},
+	{
+		"99popularity": 73,
+		"director": "RichardDonner",
+		"genre": [
+			"Action",
+			"Adventure",
+			"Family",
+			"Sci-Fi"
+		],
+		"imdb_score": 7.3,
+		"name": "Superman"
+	},
+	{
+		"99popularity": 88,
+		"director": "PeterHarris",
+		"genre": [
+			"Comedy",
+			"Family",
+			"Music"
+		],
+		"imdb_score": 8.8,
+		"name": "TheMuppetShow"
+	},
+	{
+		"99popularity": 77,
+		"director": "NormanFerguson",
+		"genre": [
+			"Animation",
+			"Drama",
+			"Family",
+			"Fantasy",
+			"Music"
+		],
+		"imdb_score": 7.7,
+		"name": "Pinocchio"
+	},
+	{
+		"99popularity": 75,
+		"director": "ArthurLipsett",
+		"genre": [
+			"Short"
+		],
+		"imdb_score": 7.5,
+		"name": "21-87"
+	},
+	{
+		"99popularity": 81,
+		"director": "JosephBarbera",
+		"genre": [
+			"Animation",
+			"Family",
+			"Mystery",
+			"Comedy",
+			"Adventure"
+		],
+		"imdb_score": 8.1,
+		"name": "ScoobyDoo,WhereAreYou!"
+	},
+	{
+		"99popularity": 71,
+		"director": "JoyBatchelor",
+		"genre": [
+			"Animation",
+			"Drama"
+		],
+		"imdb_score": 7.1,
+		"name": "AnimalFarm"
+	},
+	{
+		"99popularity": 48,
+		"director": "RayEnright",
+		"genre": [
+			"Comedy",
+			"Music",
+			"Romance",
+			"Sport"
+		],
+		"imdb_score": 4.8,
+		"name": "SwingYourLady"
+	},
+	{
+		"99popularity": 78,
+		"director": "GeorgeStevens",
+		"genre": [
+			"Drama",
+			"Western"
+		],
+		"imdb_score": 7.8,
+		"name": "Shane"
+	},
+	{
+		"99popularity": 69,
+		"director": "JohnG.Avildsen",
+		"genre": [
+			"Drama",
+			"Family",
+			"Sport"
+		],
+		"imdb_score": 6.9,
+		"name": "TheKarateKid"
+	},
+	{
+		"99popularity": 86,
+		"director": "KevinMcCarthy",
+		"genre": [
+			"Game-Show"
+		],
+		"imdb_score": 8.6,
+		"name": "Jeopardy!"
+	},
+	{
+		"99popularity": 82,
+		"director": "NormanTokar",
+		"genre": [
+			"Comedy",
+			"Family"
+		],
+		"imdb_score": 8.2,
+		"name": "LeaveIttoBeaver"
+	},
+	{
+		"99popularity": 80,
+		"director": "ArthurPenn",
+		"genre": [
+			"Biography",
+			"Crime",
+			"Drama",
+			"Romance"
+		],
+		"imdb_score": 8,
+		"name": "BonnieandClyde"
+	},
+	{
+		"99popularity": 89,
+		"director": "MilosForman",
+		"genre": [
+			"Drama"
+		],
+		"imdb_score": 8.9,
+		"name": "OneFlewOvertheCuckoosNest"
+	},
+	{
+		"99popularity": 81,
+		"director": "DaveWilson",
+		"genre": [
+			"Comedy",
+			"Music"
+		],
+		"imdb_score": 8.1,
+		"name": "SaturdayNightLive"
+	},
+	{
+		"99popularity": 88,
+		"director": "SergioLeone",
+		"genre": [
+			"Western"
+		],
+		"imdb_score": 8.8,
+		"name": "CeraunavoltailWest"
+	},
+	{
+		"99popularity": 84,
+		"director": "F.W.Murnau",
+		"genre": [
+			"Drama",
+			"Romance"
+		],
+		"imdb_score": 8.4,
+		"name": "Sunrise:ASongofTwoHumans"
+	},
+	{
+		"99popularity": 82,
+		"director": "RogerAllers",
+		"genre": [
+			"Animation",
+			"Adventure",
+			"Drama",
+			"Family",
+			"Musical"
+		],
+		"imdb_score": 8.2,
+		"name": "TheLionKing"
+	},
+	{
+		"99popularity": 75,
+		"director": "WaltDisney",
+		"genre": [
+			"Animation",
+			"Family",
+			"Comedy",
+			"Short"
+		],
+		"imdb_score": 7.5,
+		"name": "PlaneCrazy"
+	},
+	{
+		"99popularity": 64,
+		"director": "RobKlug",
+		"genre": [
+			"Documentary",
+			"News"
+		],
+		"imdb_score": 6.4,
+		"name": "60Minutes"
+	},
+	{
+		"99popularity": 77,
+		"director": "StanleyKubrick",
+		"genre": [
+			"Drama",
+			"Romance"
+		],
+		"imdb_score": 7.7,
+		"name": "Lolita"
+	},
+	{
+		"99popularity": 83,
+		"director": "JohnMcTiernan",
+		"genre": [
+			"Action",
+			"Crime",
+			"Thriller"
+		],
+		"imdb_score": 8.3,
+		"name": "DieHard"
+	},
+	{
+		"99popularity": 82,
+		"director": "OttoPreminger",
+		"genre": [
+			"Crime",
+			"Film-Noir",
+			"Mystery",
+			"Romance",
+			"Thriller"
+		],
+		"imdb_score": 8.2,
+		"name": "Laura"
+	},
+	{
+		"99popularity": 73,
+		"director": "DennisHopper",
+		"genre": [
+			"Crime",
+			"Drama"
+		],
+		"imdb_score": 7.3,
+		"name": "EasyRider"
+	},
+	{
+		"99popularity": 80,
+		"director": "DonSiegel",
+		"genre": [
+			"Horror",
+			"Sci-Fi",
+			"Thriller"
+		],
+		"imdb_score": 8,
+		"name": "InvasionoftheBodySnatchers"
+	},
+	{
+		"99popularity": 78,
+		"director": "AlainResnais",
+		"genre": [
+			"Drama",
+			"Mystery",
+			"Romance"
+		],
+		"imdb_score": 7.8,
+		"name": "Lanncca9ederniccacrecccaMarienbad"
+	},
+	{
+		"99popularity": 68,
+		"director": "WalterGrauman",
+		"genre": [
+			"Drama",
+			"Thriller"
+		],
+		"imdb_score": 6.8,
+		"name": "LadyinaCage"
+	},
+	{
+		"99popularity": 76,
+		"director": "SamRaimi",
+		"genre": [
+			"Horror"
+		],
+		"imdb_score": 7.6,
+		"name": "TheEvilDead"
+	},
+	{
+		"99popularity": 83,
+		"director": "BobbyQuinn",
+		"genre": [
+			"Comedy",
+			"Music",
+			"Talk-Show"
+		],
+		"imdb_score": 8.3,
+		"name": "TheTonightShowStarringJohnnyCarson"
+	},
+	{
+		"99popularity": 66,
+		"director": "TonyScott",
+		"genre": [
+			"Action",
+			"Drama",
+			"Romance"
+		],
+		"imdb_score": 6.6,
+		"name": "TopGun"
+	},
+	{
+		"99popularity": 69,
+		"director": "LewisGilbert",
+		"genre": [
+			"Action",
+			"Adventure",
+			"Sci-Fi",
+			"Thriller"
+		],
+		"imdb_score": 6.9,
+		"name": "YouOnlyLiveTwice"
+	},
+	{
+		"99popularity": 75,
+		"director": "TerenceYoung",
+		"genre": [
+			"Action",
+			"Adventure",
+			"Romance",
+			"Thriller"
+		],
+		"imdb_score": 7.5,
+		"name": "FromRussiawithLove"
+	},
+	{
+		"99popularity": 81,
+		"director": "HollingsworthMorse",
+		"genre": [
+			"Adventure",
+			"Western",
+			"Family"
+		],
+		"imdb_score": 8.1,
+		"name": "TheLoneRanger"
+	},
+	{
+		"99popularity": 52,
+		"director": "GerardDamiano",
+		"genre": [
+			"Adult",
+			"Comedy"
+		],
+		"imdb_score": 5.2,
+		"name": "DeepThroat"
+	},
+	{
+		"99popularity": 76,
+		"director": "SamuelFuller",
+		"genre": [
+			"Drama",
+			"Mystery"
+		],
+		"imdb_score": 7.6,
+		"name": "ShockCorridor"
+	},
+	{
+		"99popularity": 76,
+		"director": "RobertClouse",
+		"genre": [
+			"Action",
+			"Crime",
+			"Drama",
+			"Thriller"
+		],
+		"imdb_score": 7.6,
+		"name": "EntertheDragon"
+	},
+	{
+		"99popularity": 78,
+		"director": "JohnSturges",
+		"genre": [
+			"Western",
+			"Adventure",
+			"Drama"
+		],
+		"imdb_score": 7.8,
+		"name": "TheMagnificentSeven"
+	},
+	{
+		"99popularity": 77,
+		"director": "JosefvonSternberg",
+		"genre": [
+			"Crime",
+			"Drama"
+		],
+		"imdb_score": 7.7,
+		"name": "Underworld"
+	},
+	{
+		"99popularity": 73,
+		"director": "JohnFord",
+		"genre": [
+			"Western"
+		],
+		"imdb_score": 7.3,
+		"name": "SheWoreaYellowRibbon"
+	},
+	{
+		"99popularity": 67,
+		"director": "EdouardMolinaro",
+		"genre": [
+			"Drama",
+			"Thriller"
+		],
+		"imdb_score": 6.7,
+		"name": "Undanslaville"
+	},
+	{
+		"99popularity": 76,
+		"director": "TimBurton",
+		"genre": [
+			"Crime",
+			"Drama",
+			"Thriller"
+		],
+		"imdb_score": 7.6,
+		"name": "Batman"
+	},
+	{
+		"99popularity": 74,
+		"director": "ClydeGeronimi",
+		"genre": [
+			"Animation",
+			"Family",
+			"Fantasy",
+			"Musical",
+			"Romance"
+		],
+		"imdb_score": 7.4,
+		"name": "Cinderella"
+	},
+	{
+		"99popularity": 55,
+		"director": "LeeSholem",
+		"genre": [
+			"Action",
+			"Adventure",
+			"Fantasy",
+			"Romance"
+		],
+		"imdb_score": 5.5,
+		"name": "TarzansMagicFountain"
+	},
+	{
+		"99popularity": 83,
+		"director": "FredZinnemann",
+		"genre": [
+			"Drama",
+			"Western"
+		],
+		"imdb_score": 8.3,
+		"name": "HighNoon"
+	},
+	{
+		"99popularity": 77,
+		"director": "LeniRiefenstahl",
+		"genre": [
+			"Documentary",
+			"War"
+		],
+		"imdb_score": 7.7,
+		"name": "TriumphdesWillens"
+	},
+	{
+		"99popularity": 84,
+		"director": "FrankCapra",
+		"genre": [
+			"Drama"
+		],
+		"imdb_score": 8.4,
+		"name": "Mr.SmithGoestoWashington"
+	},
+	{
+		"99popularity": 70,
+		"director": "RandalKleiser",
+		"genre": [
+			"Musical",
+			"Romance"
+		],
+		"imdb_score": 7,
+		"name": "Grease"
+	},
+	{
+		"99popularity": 81,
+		"director": "D.W.Griffith",
+		"genre": [
+			"Drama",
+			"History",
+			"Romance"
+		],
+		"imdb_score": 8.1,
+		"name": "Intolerance:LovesStruggleThroughouttheAges"
+	},
+	{
+		"99popularity": 84,
+		"director": "QuentinTarantino",
+		"genre": [
+			"Crime",
+			"Mystery",
+			"Thriller"
+		],
+		"imdb_score": 8.4,
+		"name": "ReservoirDogs"
+	},
+	{
+		"99popularity": 78,
+		"director": "GeorgeStevens",
+		"genre": [
+			"Drama",
+			"Romance"
+		],
+		"imdb_score": 7.8,
+		"name": "APlaceintheSun"
+	},
+	{
+		"99popularity": 85,
+		"director": "CarolReed",
+		"genre": [
+			"Film-Noir",
+			"Mystery",
+			"Thriller"
+		],
+		"imdb_score": 8.5,
+		"name": "TheThirdMan"
+	},
+	{
+		"99popularity": 83,
+		"director": "CharlesChaplin",
+		"genre": [
+			"Adventure",
+			"Comedy",
+			"Family",
+			"Romance",
+			"Western"
+		],
+		"imdb_score": 8.3,
+		"name": "TheGoldRush"
+	},
+	{
+		"99popularity": 79,
+		"director": "CecilB.DeMille",
+		"genre": [
+			"Adventure",
+			"Drama",
+			"History"
+		],
+		"imdb_score": 7.9,
+		"name": "TheTenCommandments"
+	},
+	{
+		"99popularity": 79,
+		"director": "JohnFord",
+		"genre": [
+			"Drama",
+			"Western"
+		],
+		"imdb_score": 7.9,
+		"name": "MyDarlingClementine"
+	},
+	{
+		"99popularity": 87,
+		"director": "BillyWilder",
+		"genre": [
+			"Drama",
+			"Film-Noir"
+		],
+		"imdb_score": 8.7,
+		"name": "SunsetBlvd."
+	},
+	{
+		"99popularity": 63,
+		"director": "SeanS.Cunningham",
+		"genre": [
+			"Horror",
+			"Mystery",
+			"Thriller"
+		],
+		"imdb_score": 6.3,
+		"name": "Fridaythe13th"
+	},
+	{
+		"99popularity": 83,
+		"director": "JohnSturges",
+		"genre": [
+			"Adventure",
+			"Drama",
+			"History",
+			"War"
+		],
+		"imdb_score": 8.3,
+		"name": "TheGreatEscape"
+	},
+	{
+		"99popularity": 70,
+		"director": "ClintEastwood",
+		"genre": [
+			"Crime",
+			"Drama",
+			"Romance",
+			"Thriller"
+		],
+		"imdb_score": 7,
+		"name": "PlayMistyforMe"
+	},
+	{
+		"99popularity": 73,
+		"director": "CameronCrowe",
+		"genre": [
+			"Comedy",
+			"Drama",
+			"Romance",
+			"Sport"
+		],
+		"imdb_score": 7.3,
+		"name": "JerryMaguire"
+	},
+	{
+		"99popularity": 73,
+		"director": "BretaigneWindust",
+		"genre": [
+			"Drama",
+			"Crime",
+			"Film-Noir"
+		],
+		"imdb_score": 7.3,
+		"name": "TheEnforcer"
+	},
+	{
+		"99popularity": 68,
+		"director": "RichardFleischer",
+		"genre": [
+			"Adventure",
+			"Sci-Fi"
+		],
+		"imdb_score": 6.8,
+		"name": "FantasticVoyage"
+	},
+	{
+		"99popularity": 82,
+		"director": "GeorgeRoyHill",
+		"genre": [
+			"Adventure",
+			"Crime",
+			"Drama",
+			"Western"
+		],
+		"imdb_score": 8.2,
+		"name": "ButchCassidyandtheSundanceKid"
+	},
+	{
+		"99popularity": 86,
+		"director": "BobSweeney",
+		"genre": [
+			"Comedy",
+			"Family"
+		],
+		"imdb_score": 8.6,
+		"name": "TheAndyGriffithShow"
+	},
+	{
+		"99popularity": 79,
+		"director": "JohnLandis",
+		"genre": [
+			"Action",
+			"Comedy",
+			"Music",
+			"Musical"
+		],
+		"imdb_score": 7.9,
+		"name": "TheBluesBrothers"
+	},
+	{
+		"99popularity": 86,
+		"director": "RobertZemeckis",
+		"genre": [
+			"Drama",
+			"Romance"
+		],
+		"imdb_score": 8.6,
+		"name": "ForrestGump"
+	},
+	{
+		"99popularity": 84,
+		"director": "BillyWilder",
+		"genre": [
+			"Comedy"
+		],
+		"imdb_score": 8.4,
+		"name": "SomeLikeItHot"
+	},
+	{
+		"99popularity": 48,
+		"director": "BruceGowers",
+		"genre": [
+			"Game-Show",
+			"Music",
+			"Reality-TV"
+		],
+		"imdb_score": 4.8,
+		"name": "AmericanIdol:TheSearchforaSuperstar"
+	},
+	{
+		"99popularity": 88,
+		"director": "DavidFincher",
+		"genre": [
+			"Drama",
+			"Mystery",
+			"Thriller"
+		],
+		"imdb_score": 8.8,
+		"name": "FightClub"
+	},
+	{
+		"99popularity": 51,
+		"director": "JackArnold",
+		"genre": [
+			"Horror",
+			"Sci-Fi"
+		],
+		"imdb_score": 5.1,
+		"name": "RevengeoftheCreature"
+	},
+	{
+		"99popularity": 85,
+		"director": "RomanPolanski",
+		"genre": [
+			"Drama",
+			"Mystery",
+			"Thriller"
+		],
+		"imdb_score": 8.5,
+		"name": "Chinatown"
+	},
+	{
+		"99popularity": 81,
+		"director": "SamPeckinpah",
+		"genre": [
+			"Action",
+			"Western"
+		],
+		"imdb_score": 8.1,
+		"name": "TheWildBunch"
+	},
+	{
+		"99popularity": 88,
+		"director": "PeterJackson",
+		"genre": [
+			"Action",
+			"Adventure",
+			"Fantasy"
+		],
+		"imdb_score": 8.8,
+		"name": "TheLordoftheRings:TheFellowshipoftheRing"
+	},
+	{
+		"99popularity": 79,
+		"director": "FrankLloyd",
+		"genre": [
+			"Adventure",
+			"Drama",
+			"History"
+		],
+		"imdb_score": 7.9,
+		"name": "MutinyontheBounty"
+	},
+	{
+		"99popularity": 78,
+		"director": "Luisel",
+		"genre": [
+			"Drama",
+			"Romance"
+		],
+		"imdb_score": 7.8,
+		"name": "El"
+	},
+	{
+		"99popularity": 84,
+		"director": "StanleyKubrick",
+		"genre": [
+			"Drama",
+			"War"
+		],
+		"imdb_score": 8.4,
+		"name": "FullMetalJacket"
+	},
+	{
+		"99popularity": 55,
+		"director": "StanleyKramer",
+		"genre": [
+			"Action",
+			"Adventure",
+			"Drama",
+			"Romance",
+			"War"
+		],
+		"imdb_score": 5.5,
+		"name": "ThePrideandthePassion"
+	},
+	{
+		"99popularity": 80,
+		"director": "RobReiner",
+		"genre": [
+			"Comedy",
+			"Music"
+		],
+		"imdb_score": 8,
+		"name": "ThisIsSpinalTap"
+	},
+	{
+		"99popularity": 78,
+		"director": "AnthonyMann",
+		"genre": [
+			"Western"
+		],
+		"imdb_score": 7.8,
+		"name": "Winchester73"
+	},
+	{
+		"99popularity": 88,
+		"director": "CliffBole",
+		"genre": [
+			"Action",
+			"Adventure",
+			"Sci-Fi"
+		],
+		"imdb_score": 8.8,
+		"name": "StarTrek:TheNextGeneration"
+	},
+	{
+		"99popularity": 73,
+		"director": "CharlesS.Dubin",
+		"genre": [
+			"Crime",
+			"Drama",
+			"Mystery"
+		],
+		"imdb_score": 7.3,
+		"name": "Kojak"
+	},
+	{
+		"99popularity": 74,
+		"director": "YevgeniBauer",
+		"genre": [
+			"Drama",
+			"Short"
+		],
+		"imdb_score": 7.4,
+		"name": "Gryozy"
+	},
+	{
+		"99popularity": 49,
+		"director": "GregoryJ.Bonann",
+		"genre": [
+			"Drama",
+			"Action",
+			"Adventure"
+		],
+		"imdb_score": 4.9,
+		"name": "Baywatch"
+	},
+	{
+		"99popularity": 64,
+		"director": "GeraldPotterton",
+		"genre": [
+			"Animation",
+			"Action",
+			"Adventure",
+			"Comedy",
+			"Crime",
+			"Fantasy",
+			"Horror",
+			"Sci-Fi"
+		],
+		"imdb_score": 6.4,
+		"name": "HeavyMetal"
+	},
+	{
+		"99popularity": 80,
+		"director": "RobertWise",
+		"genre": [
+			"Drama",
+			"Sci-Fi",
+			"Thriller"
+		],
+		"imdb_score": 8,
+		"name": "TheDaytheEarthStoodStill"
+	},
+	{
+		"99popularity": 77,
+		"director": "BurtGillett",
+		"genre": [
+			"Animation",
+			"Musical",
+			"Family",
+			"Comedy",
+			"Short"
+		],
+		"imdb_score": 7.7,
+		"name": "ThreeLittlePigs"
+	},
+	{
+		"99popularity": 78,
+		"director": "WilliamA.Wellman",
+		"genre": [
+			"Action",
+			"Crime",
+			"Drama"
+		],
+		"imdb_score": 7.8,
+		"name": "ThePublicEnemy"
+	},
+	{
+		"99popularity": 71,
+		"director": "JimSharman",
+		"genre": [
+			"Comedy",
+			"Musical"
+		],
+		"imdb_score": 7.1,
+		"name": "TheRockyHorrorPictureShow"
+	},
+	{
+		"99popularity": 80,
+		"director": "BarryLevinson",
+		"genre": [
+			"Drama"
+		],
+		"imdb_score": 8,
+		"name": "RainMan"
+	},
+	{
+		"99popularity": 80,
+		"director": "JeanVigo",
+		"genre": [
+			"Drama",
+			"Romance"
+		],
+		"imdb_score": 8,
+		"name": "Latalante"
+	},
+	{
+		"99popularity": 82,
+		"director": "IngmarBergman",
+		"genre": [
+			"Drama",
+			"Fantasy"
+		],
+		"imdb_score": 8.2,
+		"name": "Persona"
+	},
+	{
+		"99popularity": 80,
+		"director": "GeorgeA.Romero",
+		"genre": [
+			"Action",
+			"Horror"
+		],
+		"imdb_score": 8,
+		"name": "DawnoftheDead"
+	},
+	{
+		"99popularity": 74,
+		"director": "WilliamF.Claxton",
+		"genre": [
+			"Action",
+			"Comedy",
+			"Drama",
+			"Romance",
+			"War",
+			"Western"
+		],
+		"imdb_score": 7.4,
+		"name": "Bonanza"
+	},
+	{
+		"99popularity": 68,
+		"director": "AdrianLyne",
+		"genre": [
+			"Drama",
+			"Thriller"
+		],
+		"imdb_score": 6.8,
+		"name": "FatalAttraction"
+	},
+	{
+		"99popularity": 60,
+		"director": "EdwardL.Cahn",
+		"genre": [
+			"Horror",
+			"Sci-Fi"
+		],
+		"imdb_score": 6,
+		"name": "It!TheTerrorfromBeyondSpace"
+	},
+	{
+		"99popularity": 83,
+		"director": "JohnMoffitt",
+		"genre": [
+			"Comedy",
+			"Music"
+		],
+		"imdb_score": 8.3,
+		"name": "ToastoftheTown"
+	},
+	{
+		"99popularity": 79,
+		"director": "WilliamFriedkin",
+		"genre": [
+			"Action",
+			"Crime",
+			"Thriller"
+		],
+		"imdb_score": 7.9,
+		"name": "TheFrenchConnection"
+	},
+	{
+		"99popularity": 73,
+		"director": "ClydeGeronimi",
+		"genre": [
+			"Animation",
+			"Adventure",
+			"Family",
+			"Fantasy",
+			"Music"
+		],
+		"imdb_score": 7.3,
+		"name": "PeterPan"
+	},
+	{
+		"99popularity": 78,
+		"director": "JohnNicolella",
+		"genre": [
+			"Action",
+			"Crime",
+			"Drama",
+			"Thriller"
+		],
+		"imdb_score": 7.8,
+		"name": "MiamiVice"
+	},
+	{
+		"99popularity": 64,
+		"director": "GeorgeLucas",
+		"genre": [
+			"Action",
+			"Adventure",
+			"Fantasy",
+			"Sci-Fi"
+		],
+		"imdb_score": 6.4,
+		"name": "StarWars:EpisodeI-ThePhantomMenace"
+	},
+	{
+		"99popularity": 88,
+		"director": "MartinScorsese",
+		"genre": [
+			"Crime",
+			"Drama",
+			"Thriller"
+		],
+		"imdb_score": 8.8,
+		"name": "Goodfellas"
+	},
+	{
+		"99popularity": 62,
+		"director": "MichaelCurtiz",
+		"genre": [
+			"Drama",
+			"History"
+		],
+		"imdb_score": 6.2,
+		"name": "TheEgyptian"
+	},
+	{
+		"99popularity": 76,
+		"director": "MichaelOHerlihy",
+		"genre": [
+			"Crime",
+			"Drama",
+			"Mystery"
+		],
+		"imdb_score": 7.6,
+		"name": "HawaiiFive-O"
+	},
+	{
+		"99popularity": 66,
+		"director": "DennisDonnelly",
+		"genre": [
+			"Action",
+			"Adventure",
+			"Crime",
+			"Drama",
+			"Mystery"
+		],
+		"imdb_score": 6.6,
+		"name": "CharliesAngels"
+	}
+]
+
