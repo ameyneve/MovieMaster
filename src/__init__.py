@@ -4,6 +4,7 @@ from flask import Flask
 from src.config import Config
 from src.extensions import api, jwt, db
 from .accounts.urls import *
+from .movies.urls import *
 
 
 def create_app():
