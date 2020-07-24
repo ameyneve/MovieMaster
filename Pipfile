@@ -11,6 +11,7 @@ passlib = "*"
 flask-jwt-extended = "*"
 werkzeug = "==0.16.1"
 "psycopg2" = "*"
+gunicorn = "*"
 
 [dev-packages]
 
