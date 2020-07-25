@@ -7,6 +7,7 @@ from flask_jwt_extended import (
 from flask_restful import Resource, reqparse
 
 from .models import UserModel, RevokedTokenModel
+from .permissions import admin_required
 
 
 class UserRegistration(Resource):
@@ -96,5 +97,6 @@ class AllUsers(Resource):
     def get(self):
         return UserModel.return_all()
 
+    @admin_required
     def delete(self):
         return UserModel.delete_all()
