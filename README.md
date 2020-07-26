@@ -34,7 +34,7 @@ POST | https://[hostname]/movies | Create new movie | Admin
 PUT | https://[hostname]/movie/[id] | Update movie details | Admin
 DELETE | https://[hostname]/movie/[id] | Remove movie | Admin
 
-### How to use?
+### Usage
 
 1. Register a new user using registration API
 ```
